@@ -1,0 +1,47 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.estacion-anio{
+    width: 500px;
+    height: 225px;
+    margin: auto;
+    padding: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: rgb(169,201,89);
+}
+
+div h3{
+    font-size: 50px;
+    font-style: italic;
+    text-align: center;
+    margin: 5px;
+}
+
+div p{
+    font-size: 20px;
+    font-weight: lighter;
+    text-align: center;
+    margin: 5px;
+}
+
+div input,
+div button{
+    font-size: 20px;
+    display: flex;
+    margin: 10px auto;
+}
+
+div label{
+    font-size: 20px;
+}
+
+.punto-extra-uno{
+    width: 500px;
+    height: 260px;
+    margin: 5px auto;
+    padding: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: rgb(68, 139, 100);
+}
